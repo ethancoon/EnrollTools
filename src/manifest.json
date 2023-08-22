@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "EnrollTools",
+    "version": "0.0.1",
+    "description": "A simple Chrome extension that provides quality-of-life features for interacting with UVA SIS.",
+    "action": {
+        "default_popup": "/popup/popup.html",
+        "default_icon": "/images/defaulticon.png"
+    }
+}
